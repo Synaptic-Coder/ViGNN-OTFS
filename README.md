@@ -22,7 +22,7 @@ The architecture employs **MRConv-based Grapher modules** for spatial feature ag
 
 ## Datasets
 
-The dataset for 8x8 frame-size can be found in the following Google Drive link: https://drive.google.com/drive/folders/1vIhNU62f7z-5pSpFta42kty1gEy6ekko?usp=sharing. Please change the M and N as per the frame-size. By default, frame-size of M=N=32 is considered in the ViGNN_Implementation.ipynb script.
+The dataset for 8x8 frame-size can be found in the following Google Drive link: https://drive.google.com/drive/folders/1vIhNU62f7z-5pSpFta42kty1gEy6ekko?usp=sharing. Please change the M and N as per the frame-size. By default, frame-size of M=N=32 is chosen in the ViGNN_Implementation.ipynb script.
 
 The full dataset generation and ablation scripts to reproduce the experimental results and plots will be available upon acceptance. 
 
